@@ -1,0 +1,2 @@
+export const TOGGELAUDIO="TOGGELAUDIO"
+export const STOPAUDIO="STOPAUDIO"
