@@ -1,7 +1,6 @@
 # 🎲 Ludo Star – Online Multiplayer Ludo Game
 
 Live Demo 👉 [Play Now](https://gaming-app-eosin.vercel.app/welcome)  
-GitHub Repo 👉 [Ludo Star Repository](https://github.com/Lupin1997/Ludo-Star)
 
 ---
 
